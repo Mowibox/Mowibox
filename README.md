@@ -22,7 +22,7 @@
 </div>
 
 
-![Mowibox's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mowibox&layout=compact&theme=radical)
+![Mowibox's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mowibox&layout=compact&theme=jolly)
 
 <!--
 **Mowibox/Mowibox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
