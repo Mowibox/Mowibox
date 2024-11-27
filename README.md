@@ -22,4 +22,4 @@
 </div>
 <br>
 
-![Mowibox's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mowibox&layout=compact&theme=dark)
+![Mowibox's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mowibox&layout=compact&theme=jolly)
