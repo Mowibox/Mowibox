@@ -6,7 +6,7 @@
 
 ### 💭 My Credo
 - 🧠 *"The limits of imagination are those imposed on it."*  
-- 🖼️ *"An image is worth a thousand words"* – Confucius (*Printer’s Ink*, 1921).
+- 🖼️ *"An image is worth a thousand words."* – Confucius (*Printer’s Ink*, 1921).
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
