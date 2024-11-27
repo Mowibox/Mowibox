@@ -1,12 +1,12 @@
 ## Hello everyone, I'm Ousmane THIONGANE 👋
 
-🎓 Specializing in **Computer Vision, AI & Robotics**.  
-🤖 I’m mainly interested in **robotics vision** and **machine learning**.  
-🎨 Drawing is one of my hobbies during my free time.
+- 🎓 Specializing in **Computer Vision, AI & Robotics**.  
+- 🤖 I’m mainly interested in **robotics vision** and **machine learning**.  
+- 🎨 Drawing is one of my hobbies during my free time.
 
 ### 💭 My Credo
-- *The limits of imagination are those imposed by us.*  
-- *An image is worth a thousand words.*
+- 🧠 *"The limits of imagination are those imposed by us."*  
+- 🖼️ *"An image is worth a thousand words"* – Confucius (*Printer’s Ink*, 1921).
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
