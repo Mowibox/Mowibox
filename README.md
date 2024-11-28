@@ -1,5 +1,8 @@
 ## Hello everyone, I'm Ousmane THIONGANE 👋
 
+![GIF via Giphy](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzVjYzUybmwwcmY1M2dtYmx1YWpzamVlMTdtandyMHlnYTRxeXEwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/rsjVCUZ5YLuUznyCZT/giphy.gif)
+
+
 - 🎓 Specializing in **Computer Vision, AI & Robotics**.  
 - 🤖 I’m mainly interested in **robotics vision** and **machine learning**.  
 - 🎨 Drawing is one of my hobbies during my free time.
