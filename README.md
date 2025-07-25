@@ -28,4 +28,4 @@
 </div>
 <br>
 
-![Mowibox's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mowibox&layout=compact&theme=jolly&hide=jupyter%20notebook,c,makefile,assembly)
+![Mowibox's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mowibox&layout=compact&theme=jolly&hide=jupyter%20notebook,makefile,assembly,linker%20script)
