@@ -28,4 +28,4 @@
 </div>
 <br>
 
-![Mowibox's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mowibox&layout=compact&text_color=ffffff&hide=jupyter%20notebook,makefile,assembly,linker%20script,scss&title_color=bf00ff&border_color=bf00ff&langs_count=8&bg_color=90,17181c,3f294f&border_radius=20)
+![Mowibox's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mowibox&layout=compact&text_color=ffffff&hide=jupyter%20notebook,makefile,assembly,linker%20script,scss&title_color=bf20ff&border_color=bf20ff&langs_count=8&bg_color=90,23223A,462863,7431A3,BF51C1&border_radius=20)
