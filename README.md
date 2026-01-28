@@ -8,6 +8,8 @@
 
 <img alt="Profil views" src="https://komarev.com/ghpvc/?username=mowibox&label=Profile%20views&color=bf00ff&style=flat">
 
+---
+
 ### 💭 My Credo
 - 🧠 *"The limits of imagination are those imposed on it."*.
 - 🖼️ *"An image is worth a thousand words."* – Confucius (*Printer’s Ink*, 1921).
@@ -17,6 +19,8 @@
 ![Skills](https://skillicons.dev/icons?i=python,opencv,cpp,git,docker,ros)
 
 ![Skills](https://skillicons.dev/icons?i=linux,latex,html,css,vscode,raspberrypi)
+
+---
 
 <br>
 
