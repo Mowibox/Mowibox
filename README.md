@@ -11,10 +11,11 @@
 ---
 
 ### 💭 My Credo
+
 - 🧠 *"The limits of imagination are those imposed on it."*.
 - 🖼️ *"An image is worth a thousand words."* – Confucius (*Printer’s Ink*, 1921).
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools
 
 ![Skills](https://skillicons.dev/icons?i=python,opencv,cpp,git,docker,ros)
 
@@ -28,7 +29,8 @@
 
 <br>
 
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mowibox&line=bf00ff&color=a420d0&title_color=a420d0&area_color=bf00ff&point=cf00ff&bg_color=18142a&radius=8&height=300&area=true&hide_border=true" width="100%">
 </div>
+
+![My GitHub Game](mowibox-gh-space-shooter.gif)
