@@ -26,7 +26,7 @@
 ![My GitHub Game](mowibox-gh-space-shooter.gif)
 
 
-<img alt="Profil views" src="https://komarev.com/ghpvc/?username=mowibox&label=Profile%20views&color=bf00ff&style=flat">
+<!-- <img alt="Profil views" src="https://komarev.com/ghpvc/?username=mowibox&label=Profile%20views&color=bf00ff&style=flat"> -->
 
 <!-- <br>
 
