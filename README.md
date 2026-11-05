@@ -18,9 +18,10 @@
 
 ![Skills](https://skillicons.dev/icons?i=linux,latex,html,css,vscode,raspberrypi)
 
-<!--
+
 ![Mowibox's GitHub Stats](https://github-readme-stats-two-blush-46.vercel.app/api/top-langs/?username=mowibox&layout=compact&text_color=ffffff&hide=jupyter%20notebook,makefile,assembly,ruby,liquid,linker%20script,scss&title_color=bf00ff&border_color=bf00ff&langs_count=8&bg_color=90,23223A,462863,7431A3&border_radius=20&exclude_repo=mowibox.github.io)
--->
+
+
 ---
 
 ![My GitHub Game](mowibox-gh-space-shooter.gif)
